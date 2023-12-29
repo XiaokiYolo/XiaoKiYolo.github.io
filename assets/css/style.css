@@ -1,105 +1,19 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-
 body {
-    margin: 0;
+  margin: 0;
 }
-
-* {
-    box-sizing: border-box;
+.swiper-wrapper{
+  height:auto !important;
 }
-
-body {
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+.c8031{
+  display:none;
 }
-
-.c13942 {
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
+.c8041{
+  display:none;
 }
-
-.c7309 {
-    color: black;
-    width: 329px;
-    height: 180px;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.fdb-block .text-h1, .fdb-block h1 {
-    font-size: 1.75rem;
-    margin-bottom: 0.5em;
-    margin-top: 0.3em;
-    font-weight: 400;
-}
-
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-}
-
-.fdb-block img.fdb-icon {
-    width: 60px;
-}
-
-.py-4 {
-    padding-top: 1.5rem !important;
-}
-
-.mt-5 {
-    margin-top: 3rem !important;
-}
-
-.fdb-block img + h3, .fdb-block img + h4, .fdb-block img + p {
-    margin-top: 20px;
-}
-
-.fdb-block .text-h3, .fdb-block h3 {
-    font-size: 0.875rem;
-    margin-bottom: 0.5em;
-    margin-top: 0.3em;
-    font-weight: 400;
-}
-
-.fdb-block {
-    font-family: Roboto, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizelegibility;
-    padding-top: 100px;
-    padding-right: 0px;
-    padding-bottom: 100px;
-    padding-left: 0px;
-    color: rgb(68, 68, 68);
-    position: relative;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
-    background-color: rgb(255, 255, 255);
-}
-
-a {
-    color: rgb(0, 123, 255);
-    text-decoration-line: none;
-    text-decoration-thickness: initial;
-    text-decoration-style: initial;
-    text-decoration-color: initial;
-    background-color: transparent;
-}
-
-a:hover {
-    color: rgb(0, 86, 179);
-    text-decoration-line: underline;
-    text-decoration-thickness: initial;
-    text-decoration-style: initial;
-    text-decoration-color: initial;
+.c8087{
+  position:absolute;
+  left:-5000px;
 }
